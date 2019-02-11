@@ -1,0 +1,19 @@
+{
+  "name": "webapp_template",
+  "version": "1.0.0",
+  "description": "xd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FreshTapir/webapp_template.git"
+  },
+  "author": "YOOOOOINK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FreshTapir/webapp_template/issues"
+  },
+  "homepage": "https://github.com/FreshTapir/webapp_template#readme"
+}
